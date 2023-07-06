@@ -14,15 +14,14 @@
 		0A078B0A2A531CE2009F7D1D /* InspectAITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A078B092A531CE2009F7D1D /* InspectAITests.swift */; };
 		0A078B142A531CE2009F7D1D /* InspectAIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A078B132A531CE2009F7D1D /* InspectAIUITests.swift */; };
 		0A078B162A531CE2009F7D1D /* InspectAIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A078B152A531CE2009F7D1D /* InspectAIUITestsLaunchTests.swift */; };
-		0A078B242A531E4D009F7D1D /* AIConversationPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A078B232A531E4D009F7D1D /* AIConversationPage.swift */; };
-		0A078B262A531E62009F7D1D /* InspectionFormPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A078B252A531E62009F7D1D /* InspectionFormPage.swift */; };
 		0A9B76D72A5326FC003BF7F2 /* NLPService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A9B76D62A5326FB003BF7F2 /* NLPService.swift */; };
 		0A9B76D92A53271B003BF7F2 /* AIInspectionService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A9B76D82A53271A003BF7F2 /* AIInspectionService.swift */; };
 		0A9B76DB2A532F49003BF7F2 /* AIFormService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A9B76DA2A532F49003BF7F2 /* AIFormService.swift */; };
 		0A9B76DD2A5339B0003BF7F2 /* ConversationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A9B76DC2A5339B0003BF7F2 /* ConversationManager.swift */; };
 		0A9B76DF2A533A6A003BF7F2 /* OpenAIService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A9B76DE2A533A6A003BF7F2 /* OpenAIService.swift */; };
-		0A9B76E22A533B52003BF7F2 /* Avatar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A9B76E12A533B52003BF7F2 /* Avatar.swift */; };
 		0A9B76E42A533B5D003BF7F2 /* AITextOutput.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A9B76E32A533B5D003BF7F2 /* AITextOutput.swift */; };
+		0A9C70BB2A57755300EDB115 /* InspectionForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A9C70BA2A57755300EDB115 /* InspectionForm.swift */; };
+		0A9C70BF2A5775A900EDB115 /* InspectionFormModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A9C70BE2A5775A900EDB115 /* InspectionFormModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,15 +52,14 @@
 		0A078B0F2A531CE2009F7D1D /* InspectAIExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InspectAIExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A078B132A531CE2009F7D1D /* InspectAIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InspectAIUITests.swift; sourceTree = "<group>"; };
 		0A078B152A531CE2009F7D1D /* InspectAIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InspectAIUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		0A078B232A531E4D009F7D1D /* AIConversationPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIConversationPage.swift; sourceTree = "<group>"; };
-		0A078B252A531E62009F7D1D /* InspectionFormPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InspectionFormPage.swift; sourceTree = "<group>"; };
 		0A9B76D62A5326FB003BF7F2 /* NLPService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NLPService.swift; sourceTree = "<group>"; };
 		0A9B76D82A53271A003BF7F2 /* AIInspectionService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIInspectionService.swift; sourceTree = "<group>"; };
 		0A9B76DA2A532F49003BF7F2 /* AIFormService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIFormService.swift; sourceTree = "<group>"; };
 		0A9B76DC2A5339B0003BF7F2 /* ConversationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConversationManager.swift; sourceTree = "<group>"; };
 		0A9B76DE2A533A6A003BF7F2 /* OpenAIService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenAIService.swift; sourceTree = "<group>"; };
-		0A9B76E12A533B52003BF7F2 /* Avatar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Avatar.swift; sourceTree = "<group>"; };
 		0A9B76E32A533B5D003BF7F2 /* AITextOutput.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AITextOutput.swift; sourceTree = "<group>"; };
+		0A9C70BA2A57755300EDB115 /* InspectionForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InspectionForm.swift; sourceTree = "<group>"; };
+		0A9C70BE2A5775A900EDB115 /* InspectionFormModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InspectionFormModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,15 +110,13 @@
 		0A078AF72A531CDD009F7D1D /* InspectAI */ = {
 			isa = PBXGroup;
 			children = (
-				0A9B76D42A5320A9003BF7F2 /* AIConversation */,
+				0A9B76D42A5320A9003BF7F2 /* AIPanel */,
 				0A9B76CC2A531EC3003BF7F2 /* Services */,
 				0A078B222A531D1E009F7D1D /* InspectionForm */,
 				0A078AF82A531CDD009F7D1D /* InspectAIApp.swift */,
 				0A078AFA2A531CDD009F7D1D /* ContentView.swift */,
 				0A078AFC2A531CE2009F7D1D /* Assets.xcassets */,
 				0A078AFE2A531CE2009F7D1D /* Preview Content */,
-				0A078B232A531E4D009F7D1D /* AIConversationPage.swift */,
-				0A078B252A531E62009F7D1D /* InspectionFormPage.swift */,
 			);
 			path = InspectAI;
 			sourceTree = "<group>";
@@ -153,6 +149,7 @@
 		0A078B222A531D1E009F7D1D /* InspectionForm */ = {
 			isa = PBXGroup;
 			children = (
+				0A9C70BD2A57759F00EDB115 /* Models */,
 				0A9B76D32A53209A003BF7F2 /* Views */,
 			);
 			path = InspectionForm;
@@ -170,23 +167,24 @@
 		0A9B76D32A53209A003BF7F2 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				0A9C70BA2A57755300EDB115 /* InspectionForm.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
 		};
-		0A9B76D42A5320A9003BF7F2 /* AIConversation */ = {
+		0A9B76D42A5320A9003BF7F2 /* AIPanel */ = {
 			isa = PBXGroup;
 			children = (
+				0A9C70BC2A57758B00EDB115 /* Models */,
 				0A9B76E02A533B33003BF7F2 /* ViewModels */,
 				0A9B76D52A5320BC003BF7F2 /* Views */,
 			);
-			path = AIConversation;
+			path = AIPanel;
 			sourceTree = "<group>";
 		};
 		0A9B76D52A5320BC003BF7F2 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				0A9B76E12A533B52003BF7F2 /* Avatar.swift */,
 				0A9B76E32A533B5D003BF7F2 /* AITextOutput.swift */,
 			);
 			path = Views;
@@ -200,6 +198,21 @@
 				0A9B76DC2A5339B0003BF7F2 /* ConversationManager.swift */,
 			);
 			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		0A9C70BC2A57758B00EDB115 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		0A9C70BD2A57759F00EDB115 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				0A9C70BE2A5775A900EDB115 /* InspectionFormModel.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -333,15 +346,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				0A9B76D92A53271B003BF7F2 /* AIInspectionService.swift in Sources */,
-				0A078B262A531E62009F7D1D /* InspectionFormPage.swift in Sources */,
 				0A9B76DD2A5339B0003BF7F2 /* ConversationManager.swift in Sources */,
 				0A9B76DF2A533A6A003BF7F2 /* OpenAIService.swift in Sources */,
 				0A078AFB2A531CDD009F7D1D /* ContentView.swift in Sources */,
+				0A9C70BF2A5775A900EDB115 /* InspectionFormModel.swift in Sources */,
 				0A9B76E42A533B5D003BF7F2 /* AITextOutput.swift in Sources */,
-				0A078B242A531E4D009F7D1D /* AIConversationPage.swift in Sources */,
+				0A9C70BB2A57755300EDB115 /* InspectionForm.swift in Sources */,
 				0A9B76D72A5326FC003BF7F2 /* NLPService.swift in Sources */,
 				0A078AF92A531CDD009F7D1D /* InspectAIApp.swift in Sources */,
-				0A9B76E22A533B52003BF7F2 /* Avatar.swift in Sources */,
 				0A9B76DB2A532F49003BF7F2 /* AIFormService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
