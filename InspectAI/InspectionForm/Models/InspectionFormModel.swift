@@ -10,7 +10,7 @@ import Foundation
 
 class InspectionFormModel {
     
-    submit() {
+    func submit() {
         // do nothing
     }
     
